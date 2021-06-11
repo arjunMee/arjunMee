@@ -15,7 +15,7 @@ I am currenty working on React Project.
 
 ![Arjun GitHub Statistics](https://github-readme-stats.vercel.app/api?username=arjunMee&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunMee)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arjunMee) -->
 
 ![Arjun GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arjunMee)
 
